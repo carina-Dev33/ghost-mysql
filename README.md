@@ -1,1 +1,1 @@
-# ghost-mysql
+Projeto Elaborado como treinamento onde  meu objeivo foi implementar o ghost com mysql , utilizando o Mysql como dependência, e utilizado o exporter para capturar as métricas atravéz do prometheus, o prohjeto foi utilizado com ferramenta o Kubernetes juntamente com o Helm.
